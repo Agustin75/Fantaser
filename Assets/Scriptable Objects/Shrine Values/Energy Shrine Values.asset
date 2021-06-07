@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db6a0c26d5cd7ad44874e76305e9e0dc, type: 3}
+  m_Name: Energy Shrine Values
+  m_EditorClassIdentifier: 
+  shrineType: Energy
+  mainResource: {fileID: 11400000, guid: 05da2209e115559448f6b047148bcb63, type: 2}
+  backgroundColor: {r: 0.754717, g: 0.754717, b: 0.754717, a: 1}
+  buttonColor: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 1}
+  gainsPerLevel: {fileID: 11400000, guid: 781bb145aec86284dbfa88f885a70f39, type: 2}
+  shrineLevel: 1

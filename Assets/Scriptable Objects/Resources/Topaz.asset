@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf6ee301e59c90049b6d4194bfc0b354, type: 3}
+  m_Name: Topaz
+  m_EditorClassIdentifier: 
+  playerLevel: {fileID: 11400000, guid: fe610f3003d8b6b4ca32fb2de235fb9b, type: 2}
+  resourceCapacity: {fileID: 11400000, guid: b9658fa5125138049ba7e8f13c9d875f, type: 2}
+  elementalBoost: {fileID: 11400000, guid: 1fe15f3283115564d9b4221c286e8626, type: 2}
+  genericBoost: {fileID: 11400000, guid: 6902373ec2742bf4e83fe9736cefe508, type: 2}
+  currAmount: 0

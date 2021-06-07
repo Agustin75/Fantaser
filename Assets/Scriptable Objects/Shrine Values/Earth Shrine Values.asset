@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bab53fb70ca0fc04a9c0706937e9f5cc, type: 3}
+  m_Name: Earth Shrine Values
+  m_EditorClassIdentifier: 
+  shrineType: 
+  mainResource: {fileID: 0}
+  backgroundColor: {r: 0.8113208, g: 0.41836596, b: 0.23344605, a: 1}
+  buttonColor: {r: 0.6037736, g: 0.2473331, b: 0.08259169, a: 1}
+  gainsPerLevel: {fileID: 11400000, guid: 80d1a5c1401589040b0128e3c8169af9, type: 2}
+  shrineLevel: 1
+  shrineElement: 1
+  elementalEssences: {fileID: 11400000, guid: 96003bbe148f24c43b1a0f5352953d54, type: 2}

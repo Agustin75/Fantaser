@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84fc8c76c76616438eda6279191aca0, type: 3}
+  m_Name: Elemental Gemstone
+  m_EditorClassIdentifier: 
+  elementalResource:
+  - {fileID: 11400000, guid: b1b2c1988e321264481f0fe2a01bd262, type: 2}
+  - {fileID: 11400000, guid: a6b8b7105d4607b45af235cca55c2849, type: 2}
+  - {fileID: 11400000, guid: e7379e75827248f4a9676ce484e59a99, type: 2}
+  - {fileID: 11400000, guid: 21287cc29a737df418a46722a6dfd9f3, type: 2}
+  - {fileID: 11400000, guid: 63514ba3b44394b4fb6797d27aadfea0, type: 2}
+  - {fileID: 11400000, guid: 5e38f4f159548624482406879493eaec, type: 2}
+  - {fileID: 11400000, guid: ad0df9489f6512b41b931b33b6bec77e, type: 2}
